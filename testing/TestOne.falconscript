@@ -1,0 +1,27 @@
+// Code entry point
+// Returns void
+fnc Main() {
+    loc someVariable = "Test string";
+    loc someIntegerVariable = 314; // Integer32
+    loc someFloatVariable = 3.14; // Float32
+
+    // Any calls to functions from the standard library reference "Standard"
+    Standard.Print(someVariable);
+
+    // Inclusive range
+    if (Standard.Random(0, 1) == 0) {
+        PrintTrue(1);
+    } else if (Standard.Random(0, 3) >= 2) {
+        PrintTrue(2);
+    } else if (Standard.Random(0, 3) != 3) {
+        PrintTrue(3);
+    } else {
+        Standard.Print("It wasn't true...");
+    }
+}
+
+// User defined function with custom logic and parameters
+fnc PrintTrue(index) {
+    // String concatenation work with a "+", non-string types can also be converted to a string with their "ToString()" method
+    Standard.Print("It was true!" + index.ToString());
+}
