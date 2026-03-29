@@ -18,6 +18,9 @@ fnc Main() {
     } else {
         Standard.Print("It wasn't true...");
     }
+
+    Standard.Print("Hello, World!");
+    Standard.Print(Standard.Random(0, 23423).ToString());
 }
 
 // User defined function with custom logic and parameters

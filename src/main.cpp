@@ -2,6 +2,7 @@
 #include <iostream>
 #include <sstream>
 
+#include "executor.hpp"
 #include "scanner.hpp"
 
 int main(int argc, char *argv[]) {
@@ -23,9 +24,7 @@ int main(int argc, char *argv[]) {
 
     ifs.close();
 
-    for (const auto tokens = scanner::tokenize(complete); const auto& token : tokens) {
-        std::cout << token.lexeme << ' ' << token.type << '\n';
-    }
+    executor::execute(scanner::tokenize(complete));
 
     return 0;
 }

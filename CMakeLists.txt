@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 26)
 add_executable(FalconScript src/main.cpp
         src/scanner.hpp
         src/token-type.hpp
-        src/token.hpp)
+        src/token.hpp
+)

@@ -40,13 +40,11 @@ enum TokenType {
     NIL,
     OR,
     RETURN,
-    THIS,
     TRUE,
-    VAR,
+    LOC,
     WHILE,
 
     STANDARD,
-    FUNCTION_CALL,
 
     EOF_
 };
