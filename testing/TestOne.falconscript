@@ -2,8 +2,8 @@
 // Returns void
 fnc Main() {
     loc someVariable = "Test string";
-    loc someIntegerVariable = 314; // Integer32
-    loc someFloatVariable = 3.14; // Float32
+    loc someIntegerVariable = 314;
+    loc someFloatVariable = 3.14;
 
     // Any calls to functions from the standard library reference "Standard"
     Standard.Print(someVariable);

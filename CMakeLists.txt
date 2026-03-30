@@ -7,4 +7,5 @@ add_executable(FalconScript src/main.cpp
         src/scanner.hpp
         src/token-type.hpp
         src/token.hpp
+        src/executor.hpp
 )
