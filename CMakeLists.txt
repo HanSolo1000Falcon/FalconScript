@@ -3,9 +3,13 @@ project(falcon_script)
 
 set(CMAKE_CXX_STANDARD 26)
 
+set(CMAKE_CXX_SCAN_FOR_MODULES OFF)
+
 add_executable(FalconScript src/main.cpp
-        src/scanner.hpp
-        src/token-type.hpp
-        src/token.hpp
-        src/executor.hpp
+        src/scanner.cpp
+        src/executor.cpp
+        headers/token-type.hpp
+        headers/token.hpp
+        headers/scanner.hpp
+        headers/executor.hpp
 )

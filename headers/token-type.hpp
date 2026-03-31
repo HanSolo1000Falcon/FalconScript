@@ -1,9 +1,5 @@
-//
-// Created by falcon1k on 3/28/26.
-//
-
-#ifndef FALCON_SCRIPT_TOKEN_FACTORY_HPP
-#define FALCON_SCRIPT_TOKEN_FACTORY_HPP
+#ifndef fs_tokentype
+#define fs_tokentype
 
 enum TokenType {
     LEFT_PAREN,
@@ -49,4 +45,4 @@ enum TokenType {
     EOF_
 };
 
-#endif //FALCON_SCRIPT_TOKEN_FACTORY_HPP
+#endif

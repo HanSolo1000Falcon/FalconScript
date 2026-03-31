@@ -2,8 +2,8 @@
 #include <iostream>
 #include <sstream>
 
-#include "executor.hpp"
-#include "scanner.hpp"
+#include "../headers/executor.hpp"
+#include "../headers/scanner.hpp"
 
 int main(int argc, char *argv[]) {
     if (argc != 2) {
@@ -24,7 +24,7 @@ int main(int argc, char *argv[]) {
 
     ifs.close();
 
-    executor::execute(scanner::tokenize(complete));
+    execute(tokenize(complete));
 
     return 0;
 }
