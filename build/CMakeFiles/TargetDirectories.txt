@@ -1,3 +1,0 @@
-C:/Users/JacobBörstell/Documents/FalconScript/build/CMakeFiles/FalconScript.dir
-C:/Users/JacobBörstell/Documents/FalconScript/build/CMakeFiles/edit_cache.dir
-C:/Users/JacobBörstell/Documents/FalconScript/build/CMakeFiles/rebuild_cache.dir

@@ -1,7 +1,0 @@
-# ninja log v7
-38	5129	7967300338205938	CMakeFiles/FalconScript.dir/src/scanner.cpp.obj	3efcd6caeb558a97
-14	7577	7967300337953159	CMakeFiles/FalconScript.dir/src/main.cpp.obj	9cbc00c47c22179e
-58	8652	7967300338414747	CMakeFiles/FalconScript.dir/src/executor.cpp.obj	6ced513b61154d10
-8653	9372	7967300424361676	FalconScript.exe	6b2a6cbc6b71ad47
-58	2655	7967300942668981	CMakeFiles/FalconScript.dir/src/executor.cpp.obj	6ced513b61154d10
-2656	3214	7967300968653760	FalconScript.exe	6b2a6cbc6b71ad47
