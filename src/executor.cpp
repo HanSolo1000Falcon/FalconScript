@@ -32,7 +32,7 @@ void executeFunction(const std::vector<Token> &functionInstructions, const std::
                 break;
             }
 
-            case STANDARD: {
+            /*case STANDARD: {
                 const auto& functionName = functionInstructions[i + 2].lexeme;
 
                 if (functionName == "Print") {
@@ -44,7 +44,7 @@ void executeFunction(const std::vector<Token> &functionInstructions, const std::
                     ++i;
                 }
                 break;
-            }
+            }*/
         }
     }
 }

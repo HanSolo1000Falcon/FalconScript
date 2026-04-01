@@ -1,20 +1,20 @@
 [
 {
-  "directory": "/home/falcon1k/Repositories/CPP/Langs/falcon-script/build",
-  "command": "/usr/bin/g++ -g -std=gnu++26 -o CMakeFiles/FalconScript.dir/src/main.cpp.o -c /home/falcon1k/Repositories/CPP/Langs/falcon-script/src/main.cpp",
-  "file": "/home/falcon1k/Repositories/CPP/Langs/falcon-script/src/main.cpp",
-  "output": "/home/falcon1k/Repositories/CPP/Langs/falcon-script/build/CMakeFiles/FalconScript.dir/src/main.cpp.o"
+  "directory": "C:/Users/JacobBörstell/Documents/FalconScript/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++26 -o CMakeFiles\\FalconScript.dir\\src\\main.cpp.obj -c C:\\Users\\JacobBörstell\\Documents\\FalconScript\\src\\main.cpp",
+  "file": "C:/Users/JacobBörstell/Documents/FalconScript/src/main.cpp",
+  "output": "C:/Users/JacobBörstell/Documents/FalconScript/build/CMakeFiles/FalconScript.dir/src/main.cpp.obj"
 },
 {
-  "directory": "/home/falcon1k/Repositories/CPP/Langs/falcon-script/build",
-  "command": "/usr/bin/g++ -g -std=gnu++26 -o CMakeFiles/FalconScript.dir/src/scanner.cpp.o -c /home/falcon1k/Repositories/CPP/Langs/falcon-script/src/scanner.cpp",
-  "file": "/home/falcon1k/Repositories/CPP/Langs/falcon-script/src/scanner.cpp",
-  "output": "/home/falcon1k/Repositories/CPP/Langs/falcon-script/build/CMakeFiles/FalconScript.dir/src/scanner.cpp.o"
+  "directory": "C:/Users/JacobBörstell/Documents/FalconScript/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++26 -o CMakeFiles\\FalconScript.dir\\src\\scanner.cpp.obj -c C:\\Users\\JacobBörstell\\Documents\\FalconScript\\src\\scanner.cpp",
+  "file": "C:/Users/JacobBörstell/Documents/FalconScript/src/scanner.cpp",
+  "output": "C:/Users/JacobBörstell/Documents/FalconScript/build/CMakeFiles/FalconScript.dir/src/scanner.cpp.obj"
 },
 {
-  "directory": "/home/falcon1k/Repositories/CPP/Langs/falcon-script/build",
-  "command": "/usr/bin/g++ -g -std=gnu++26 -o CMakeFiles/FalconScript.dir/src/executor.cpp.o -c /home/falcon1k/Repositories/CPP/Langs/falcon-script/src/executor.cpp",
-  "file": "/home/falcon1k/Repositories/CPP/Langs/falcon-script/src/executor.cpp",
-  "output": "/home/falcon1k/Repositories/CPP/Langs/falcon-script/build/CMakeFiles/FalconScript.dir/src/executor.cpp.o"
+  "directory": "C:/Users/JacobBörstell/Documents/FalconScript/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++26 -o CMakeFiles\\FalconScript.dir\\src\\executor.cpp.obj -c C:\\Users\\JacobBörstell\\Documents\\FalconScript\\src\\executor.cpp",
+  "file": "C:/Users/JacobBörstell/Documents/FalconScript/src/executor.cpp",
+  "output": "C:/Users/JacobBörstell/Documents/FalconScript/build/CMakeFiles/FalconScript.dir/src/executor.cpp.obj"
 }
 ]
