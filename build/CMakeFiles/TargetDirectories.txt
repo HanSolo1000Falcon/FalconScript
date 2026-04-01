@@ -1,3 +1,0 @@
-/home/falcon1k/Repositories/CPP/Langs/falcon-script/build/CMakeFiles/FalconScript.dir
-/home/falcon1k/Repositories/CPP/Langs/falcon-script/build/CMakeFiles/edit_cache.dir
-/home/falcon1k/Repositories/CPP/Langs/falcon-script/build/CMakeFiles/rebuild_cache.dir
