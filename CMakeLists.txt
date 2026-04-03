@@ -8,8 +8,4 @@ set(CMAKE_CXX_SCAN_FOR_MODULES OFF)
 add_executable(FalconScript src/main.cpp
         src/scanner.cpp
         src/executor.cpp
-        headers/token-type.hpp
-        headers/token.hpp
-        headers/scanner.hpp
-        headers/executor.hpp
 )
